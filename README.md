@@ -9,6 +9,7 @@ This first plot looks at the CO2 emissiosn from the US and Canda. The data start
 
 
 **Uzbekistan Tourist Visitors**
+
 ![Graph showing trend of number of tourists that visit Uzbekistan](Tourists.png)
 
 This second plot shows a trend in the number of tourist visitors that go to Uzbekistan. The data starts from 1995 up to 2018. 
