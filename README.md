@@ -15,6 +15,6 @@ Here is the link to original data source!'[DATA](http://data.un.org/)'
 
 ![Graph showing trend of number of tourists that visit Uzbekistan](Tourists.png)
 
-This second plot shows a trend in the number of tourist visitors that go to Uzbekistan. The data starts from 1995 up to 2018. 
+This second plot shows a trend in the number of tourist visitors that go to Uzbekistan. The data starts from 1995 up to 2018. The number of tourists were rounded in order to show the data neatly. Refer to the original data source to know the actual numbers. 
 
 Here is the link to original data source!'[DATA](http://data.un.org/)'
